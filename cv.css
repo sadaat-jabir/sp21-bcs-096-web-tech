@@ -1,0 +1,62 @@
+div{
+    border: 1px solid black;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#container{
+    margin-left: 250px;
+    margin-right: 250px;
+    overflow: hidden;
+    min-height: 400px;
+}
+#left{
+    background-color: lightgray;
+    width: 27%;
+    float: left;
+    margin: 1px;
+    
+}
+#right{
+        background-color: white;
+        float: right;
+        width: 71.9%;
+        margin: 1px;
+ }
+ #container1{
+    margin-left: 250px;
+    margin-right: 250px;
+    overflow: hidden;
+    min-height: 5px;
+}
+
+#right1
+{
+    background-color: lightgray;
+    float: right;
+    width: 78.6%;
+    margin: 1px;
+}
+#covid
+{
+    background-color: aliceblue;
+  
+    width: 100%;
+    float: left;
+    size: 100%;
+    margin: 0.8px;
+}
+#left1
+{
+    background-color: hwb(0 98% 1% / 0.788);
+    width: 20%;
+    float: left;
+    margin: 2.51px;
+}
+.bold-horizontal-line{
+    border: none;
+    height: 4px;
+    background-color: #000;
+}
+
+
+    
